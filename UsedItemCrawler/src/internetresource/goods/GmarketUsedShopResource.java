@@ -1,4 +1,6 @@
-package internetresource;
+package internetresource.goods;
+
+import internetresource.InternetResourceBase;
 
 import java.util.ArrayList;
 import java.util.List;
